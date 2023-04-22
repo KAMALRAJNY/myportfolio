@@ -1,0 +1,88 @@
+.bak{
+  text-align: center;
+  text-decoration:underline;
+  text-weight:bold;
+  font-family: Segoe UI Semibold;
+}
+
+.kr{
+  display: flex;
+  padding: 10px;
+
+}
+
+.pimg{
+ border-radius: 50px;
+ height: 250px;
+ width: 200px;
+ margin-left: 200px;
+ border: 2px solid black;
+}
+
+.ger{
+  margin-top: 70;
+  font-size: 15px;
+  margin-left: 350px;
+  font-family: Segoe UI Semibold;
+  text-align: center;
+}
+.orp{
+
+  font-family: Segoe UI Semibold;
+}
+.jar{
+  margin-left: 130px;
+  font-family: Segoe UI Semibold;
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.met{
+  margin-left: 130px;
+  font-family: Segoe UI Semibold;
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  flex-direction: column;
+}
+
+.Cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tb{
+  margin-bottom:10px ;
+}
+.bob{
+  margin-left: 130px;
+  font-family: Segoe UI Semibold;
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.top{
+  margin-bottom:10px ;
+}
+.cat{
+margin-left: 130px;
+  font-family: Segoe UI Semibold;
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.jel{
+font-size:19px;
+margin-left:30px;
+}
+.bye{
+text-align:center;
+font-family: Segoe UI Semibold;
+text-weight:bold
+}
